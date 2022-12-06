@@ -1,0 +1,15 @@
+﻿La génération a démarré 13.09.2017 14:56:25.
+     1>Projet "C:\PBO\PERSO\PROJET\PROGRAMMATION\C_STANDART\Ex2\SolEx2_V02\SolEx2_V02.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt Ex2.c
+         Ex2.c
+     1>c:\pbo\perso\projet\programmation\c_standart\ex2\solex2_v02\ex2.c(32): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint8_t *'
+         c:\pbo\perso\projet\programmation\c_standart\ex2\solex2_v02\ex2.c(32): note: consider using '%hhd' in the format string
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\PBO\PERSO\PROJET\PROGRAMMATION\C_STANDART\Ex2\SolEx2_V02\Debug\SolEx2_V02.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\PBO\PERSO\PROJET\PROGRAMMATION\C_STANDART\Ex2\SolEx2_V02\Debug\SolEx2_V02.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\PBO\PERSO\PROJET\PROGRAMMATION\C_STANDART\Ex2\SolEx2_V02\Debug\SolEx2_V02.lib" /MACHINE:X86 Debug\Ex2.obj
+         SolEx2_V02.vcxproj -> C:\PBO\PERSO\PROJET\PROGRAMMATION\C_STANDART\Ex2\SolEx2_V02\Debug\SolEx2_V02.exe
+     1>Génération du projet "C:\PBO\PERSO\PROJET\PROGRAMMATION\C_STANDART\Ex2\SolEx2_V02\SolEx2_V02.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.76
