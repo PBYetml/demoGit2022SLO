@@ -22,7 +22,7 @@
 					// Nouveauté du VC++ 2005, 2008, 2010 et 2015 : le scanf_s remplace scanf
 
 
-// demo GIT SLo1 
+// modification 06.12 => 15.47 
 
 
 //-- Programme Principal --// 
