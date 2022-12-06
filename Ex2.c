@@ -24,8 +24,6 @@
 
 // demo GIT SLo1 
 
-// Now nouveau test GiT 
-
 
 //-- Programme Principal --// 
 int main(void)
