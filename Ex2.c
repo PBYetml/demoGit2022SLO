@@ -21,6 +21,10 @@
 #include <stdio.h>	// pour usage printf et scanf_s
 					// Nouveauté du VC++ 2005, 2008, 2010 et 2015 : le scanf_s remplace scanf
 
+
+// demo GIT SLo1 
+
+
 //-- Programme Principal --// 
 int main(void)
 {
